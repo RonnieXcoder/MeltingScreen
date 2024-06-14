@@ -1,4 +1,7 @@
-﻿
+// If you enjoy this project, you can support it by making a donation!
+// Donation link: https://buymeacoffee.com/_ronniexcoder
+// You can also visit my YouTube channel for more content: https://www.youtube.com/@ronniexcoder﻿
+
 using System.Runtime.InteropServices;
 
 class Program
@@ -222,4 +225,6 @@ class Program
         }
     }
 }
-
+// If you enjoy this project, you can support it by making a donation!
+// Donation link: https://buymeacoffee.com/_ronniexcoder
+// You can also visit my YouTube channel for more content: https://www.youtube.com/@ronniexcoder
